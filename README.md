@@ -1,6 +1,7 @@
+
 # tmux Example Configuration File
 
-Universal tmux configuration files for multiple distros (SUSE, Debian, Ubunti etc.)
+Universal tmux configuration files for multiple distros (SUSE/SLES, Debian, Ubuntu etc.)
 
 ## Installation
 
@@ -13,7 +14,7 @@ tmux
 
 - Nice status line
 - Right click context menu
-- multiple windows/screens (ctrl-B 1..9)
+- multiple windows/screens (Ctrl-B 1..9)
 - horizontal and vertical window split
 - mouse support
 
@@ -24,3 +25,8 @@ Example 1
 
 Example 2
 ![Example 2](tmux_osl154-example.png)
+
+<!--
+$Id: README.md,v 1.1 2022/09/29 19:46:03 ralph Exp $
+vim:set fileencoding=utf8 fileformat=unix filetype=gfm tabstop=2 expandtab:
+ -->
