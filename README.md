@@ -2,14 +2,16 @@
 
 ## Installation
 
+````
 cp tmux.conf  ~/.tmux.conf
 tmux
+````
 
 ## Features
 
 - Nice status line
 - Right click context menu
-- multiple Windows (crtl-B 1..9)
+- multiple windows/screens (crtl-B 1..9)
 - horizontal and vertical window split
 - mouse support
 
