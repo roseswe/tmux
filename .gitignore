@@ -4,3 +4,5 @@ tmux_shebang.conf
 CVS/Root
 CVS/Repository
 CVS/Entries
+test_tmux_layout_SAPHANASR.sh
+.gitignore
